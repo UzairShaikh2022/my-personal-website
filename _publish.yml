@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f3b04b6f-cdaf-4456-8c7e-305d25d9062a
+      url: https://uzairashaikh.netlify.app/
