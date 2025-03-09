@@ -16,6 +16,11 @@ format:
       - brand
     css: styles.css
     toc: true
+    
+editor: visual
+
+execute:
+  freeze: auto
 
 
 
