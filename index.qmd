@@ -1,13 +1,35 @@
 ---
-title: "new-personal-website"
+title: "Uzair Shaikh"
+about:
+  template: jolla
+  image: myprofile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-This is a Quarto website.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 2
+University of California, Los Angeles | Los Angeles, CA
+B.S in Statistics and Data Science | Sept 2023 - June 2025
 
-runif(30)
-```
+Santiago Canyon College | Orange, CA
+A.S in Mathematics | Aug 2021 - June 2023
+
+## Experience
+
+LiftedViz | Data Visualization Intern | Jan 2025 - present
+
+Bruin Sports Analytics | Tennis Consultant | Sept 2024 - present
+
+The Walt Disney Company | Restaurant Host | Nov 2022 - present
+
+
+
+
