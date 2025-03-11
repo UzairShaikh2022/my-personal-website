@@ -1,17 +1,38 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "My first project\n\nrunif(10)\n\n [1] 0.5314841 0.5921947 0.3974317 0.2367524 0.7489199 0.3144788 0.8830845\n [8] 0.8601528 0.5511449 0.7564897"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Uzair Shaikh",
     "section": "",
     "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(8)\n\n[1] 0.45015966 0.28633224 0.51617929 0.10838760 0.08520414 0.44971965 0.57948569\n[8] 0.73000663"
   },
   {
     "objectID": "index.html#education",
@@ -25,6 +46,20 @@
     "href": "index.html#experience",
     "title": "Uzair Shaikh",
     "section": "Experience",
-    "text": "Experience\nLiftedViz | Data Visualization Intern | Jan 2025 - present\nBruin Sports Analytics | Tennis Consultant | Sept 2024 - present\nThe Walt Disney Company | Restaurant Host | Nov 2022 - present\nAIG Insurance Inc. | Data Analyst Intern | July 2019 - July 2019"
+    "text": "Experience\nLiftedViz | Data Visualization Intern | Jan 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "My first project\n\nrunif(30)\n\n [1] 0.30273703 0.45833228 0.09160487 0.68987658 0.74132269 0.02166800\n [7] 0.83870925 0.64265720 0.01329880 0.28863747 0.69399326 0.55715119\n[13] 0.08959006 0.08961212 0.18816823 0.94515288 0.02190817 0.56927525\n[19] 0.33004552 0.67315652 0.35159819 0.14795338 0.79476197 0.70108129\n[25] 0.19088239 0.10991656 0.81720514 0.32049481 0.76803763 0.59767553"
+  },
+  {
+    "objectID": "projects/03-project.html",
+    "href": "projects/03-project.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "My third project\n\nrunif(30)\n\n [1] 0.78983791 0.65657871 0.33875868 0.32115086 0.10404231 0.05646089\n [7] 0.27519082 0.97762954 0.24480468 0.48129215 0.12794789 0.32718339\n[13] 0.33963386 0.01212022 0.64958824 0.48701781 0.94394076 0.89141758\n[19] 0.97983334 0.44151687 0.19495298 0.05263128 0.81277529 0.41466350\n[25] 0.08762629 0.74875630 0.94060578 0.57552122 0.27196543 0.08309811"
   }
 ]

@@ -1,15 +1,22 @@
 ---
 title: "Uzair Shaikh"
 about:
-  template: jolla
+  template: trestles
   image: myprofile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/UzairShaikh2022
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/uzair-shaikh-67a442206/
+    - icon: email
+      text: Email
+      url: "mailto:uzair.a.shk@gmail.com"
+    - icon: cv
+      text: CV
+      url: "Uzair_A_Shaikh_Resume.pdf"
+toc: false
 ---
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
@@ -24,13 +31,9 @@ A.S in Mathematics | Aug 2021 - June 2023
 
 ## Experience
 
-LiftedViz | Data Visualization Intern | Jan 2025 - present
+LiftedViz | Data Visualization Intern | Jan 2018 - present
 
-Bruin Sports Analytics | Tennis Consultant | Sept 2024 - present
-
-The Walt Disney Company | Restaurant Host | Nov 2022 - present
-
-AIG Insurance Inc. | Data Analyst Intern | July 2019 - July 2019
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
 
 
 

@@ -1,0 +1,12 @@
+---
+title: Project 2
+---
+
+
+My first project
+
+
+```{r}
+runif(30)
+```
+
