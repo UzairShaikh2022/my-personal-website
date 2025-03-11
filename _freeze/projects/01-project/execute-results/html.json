@@ -1,8 +1,8 @@
 {
-  "hash": "fd8da3cd69a3979453612af0e5f99d6f",
+  "hash": "9cd2eb5b9a1c2d458994c5ae78692341",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: Project 1\n---\n\n\n\n\n\nMy first project\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.5314841 0.5921947 0.3974317 0.2367524 0.7489199 0.3144788 0.8830845\n [8] 0.8601528 0.5511449 0.7564897\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: Project 1\nsubtitle: Description\nimage: images/rafanadal.jpg\n---\n\n\n\n\nMy first project\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.3960238 0.4167806 0.8435524 0.8273227 0.9060653 0.8705386 0.8276716\n [8] 0.6649432 0.5764997 0.7479392\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

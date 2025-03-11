@@ -7,27 +7,21 @@ listing:
     sort: false
     sort-ui: false
     filter-ui: false
-    type: table
+    type: grid
     fields:
       - title
+      - image
+      - subtitle
     categories: false
 ---
 
 
-## Project 1
-
-Here is my [project 1](/projects/01-project.qmd)
-
-
-## Project 2
-
-Here is my [project 2](/projects/02-project.qmd)
 
 
 
 
+Here is a collection of projecsts showcasing my data analysis and storytelling. Each project highlights my passion for turning data into meaningful narratives.
 
----
 
 :::project-listing
 :::

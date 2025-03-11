@@ -1,5 +1,7 @@
 ---
 title: Project 2
+subtitle: Description
+image: images/wnba.jpg
 ---
 
 

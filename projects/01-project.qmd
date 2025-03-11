@@ -1,5 +1,7 @@
 ---
 title: Project 1
+subtitle: Description
+image: images/rafanadal.jpg
 ---
 
 
