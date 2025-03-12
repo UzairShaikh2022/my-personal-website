@@ -1,5 +1,5 @@
 ---
-title: "Data Journalism: Rafael Nadal - The King of Clay"
+title: "Data Journalism: Rafael Nadal: The Undisputed King of Clay"
 author: "Uzair Shaikh"
 date: "June 22, 2024"
 categories: ["Data Journalism", "Sports Analytics"]
