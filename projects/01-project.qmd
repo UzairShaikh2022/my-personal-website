@@ -1,14 +1,21 @@
 ---
-title: Project 1
-subtitle: Description
-image: images/rafanadal.jpg
+title: "Data Journalism: Rafael Nadal - The King of Clay"
+author: "Uzair Shaikh"
+date: "June 22, 2024"
+categories: ["Data Journalism", "Sports Analytics"]
+image: "images/rafanadal.jpg"
+format: html
 ---
 
+# Project Overview  
+In this project, I explored what makes Rafael Nadal the undisputed **King of Clay**. Using data from the ATP website, I cleaned and prepared the dataset in Excel before loading it into R for visualization and analysis. Through statistical insights and compelling visuals, I examined key performance metrics—such as break points won, rally length, and shot selection—that contribute to Nadal’s dominance on clay courts.  
 
-My first project
+# Data Collection & Analysis  
+- **Data Source:** ATP Website  
+- **Data Cleaning & Preparation:** Processed in Excel  
+- **Visualization & Analysis:** Conducted in R  
 
+By leveraging these methods, I uncovered key trends that explain Nadal’s unparalleled success on the surface.  
 
-```{r}
-runif(10)
-```
-
+# Read the Full Article  
+You can read my full article, published on Bruin Sports Analytics, here: [Read the article](https://www.bruinsportsanalytics.com/post/king-of-clay).  

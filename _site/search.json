@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "Here is a collection of projecsts showcasing my data analysis and storytelling. Each project highlights my passion for turning data into meaningful narratives.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 1\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nProject 3\n\n\nDescription\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here is a collection of projecsts showcasing my data analysis and storytelling. Each project highlights my passion for turning data into meaningful narratives.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Journalism: Rafael Nadal - The King of Clay\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nProject 3\n\n\nDescription\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#project-1",
@@ -23,9 +23,9 @@
   {
     "objectID": "projects/01-project.html",
     "href": "projects/01-project.html",
-    "title": "Project 1",
+    "title": "Data Journalism: Rafael Nadal - The King of Clay",
     "section": "",
-    "text": "My first project\n\nrunif(10)\n\n [1] 0.3960238 0.4167806 0.8435524 0.8273227 0.9060653 0.8705386 0.8276716\n [8] 0.6649432 0.5764997 0.7479392"
+    "text": "Project Overview\nIn this project, I explored what makes Rafael Nadal the undisputed King of Clay. Using data from the ATP website, I cleaned and prepared the dataset in Excel before loading it into R for visualization and analysis. Through statistical insights and compelling visuals, I examined key performance metrics—such as break points won, rally length, and shot selection—that contribute to Nadal’s dominance on clay courts.\n\n\nData Collection & Analysis\n\nData Source: ATP Website\n\nData Cleaning & Preparation: Processed in Excel\n\nVisualization & Analysis: Conducted in R\n\nBy leveraging these methods, I uncovered key trends that explain Nadal’s unparalleled success on the surface.\n\n\nRead the Full Article\nYou can read my full article, published on Bruin Sports Analytics, here: Read the article."
   },
   {
     "objectID": "index.html",
