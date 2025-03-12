@@ -1,1 +1,80 @@
-/* css styles */
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5; /* Light gray background */
+    color: #333; /* Dark gray text */
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation Banner */
+.navbar {
+    background-color: #e5e7eb; /* Light gray background */
+    color: #1f2937; /* Dark gray text */
+    text-align: center;
+    padding: 15px 0;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 3px solid #9ca3af; /* Slightly darker gray border */
+}
+
+/* Style Navigation Links */
+.navbar a {
+    color: #1f2937; /* Dark gray */
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #374151; /* Slightly darker on hover */
+}
+
+/* Headers */
+h1, h2 {
+    color: #1e3a8a; /* Deep blue */
+}
+
+/* Education & Experience Sections */
+.education, .experience {
+    background-color: #ffffff; /* White background */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Light shadow */
+    margin-bottom: 20px;
+}
+
+/* Styling the Flexbox Layout */
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd; /* Light gray line */
+}
+
+/* Text Colors */
+.flex-container span:nth-child(1) { 
+    color: #1e40af; /* Dark blue for organization/institution */
+    font-weight: bold;
+}
+.flex-container span:nth-child(2) {
+    color: #475569; /* Grayish-blue for position/degree */
+}
+.flex-container span:nth-child(3) {
+    color: #64748b; /* Muted blue for date */
+}
+
+/* Responsive Design for Smaller Screens */
+@media screen and (max-width: 768px) {
+    .flex-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .navbar {
+        font-size: 18px;
+    }
+    .navbar a {
+        display: block;
+        margin: 10px 0;
+    }
+}

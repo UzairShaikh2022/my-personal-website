@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "Here is a collection of projecsts showcasing my data analysis and storytelling. Each project highlights my passion for turning data into meaningful narratives.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Journalism: Rafael Nadal - The King of Clay\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nProject 3\n\n\nDescription\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here is a collection of projecsts showcasing my data analysis and storytelling. Each project highlights my passion for turning data into meaningful narratives.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Journalism: Rafael Nadal: The Undisputed King of Clay\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nProject 3\n\n\nDescription\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#project-1",
@@ -23,7 +23,7 @@
   {
     "objectID": "projects/01-project.html",
     "href": "projects/01-project.html",
-    "title": "Data Journalism: Rafael Nadal - The King of Clay",
+    "title": "Data Journalism: Rafael Nadal: The Undisputed King of Clay",
     "section": "",
     "text": "Project Overview\nIn this project, I explored what makes Rafael Nadal the undisputed King of Clay. Using data from the ATP website, I cleaned and prepared the dataset in Excel before loading it into R for visualization and analysis. Through statistical insights and compelling visuals, I examined key performance metrics—such as break points won, rally length, and shot selection—that contribute to Nadal’s dominance on clay courts.\n\n\nData Collection & Analysis\n\nData Source: ATP Website\n\nData Cleaning & Preparation: Processed in Excel\n\nVisualization & Analysis: Conducted in R\n\nBy leveraging these methods, I uncovered key trends that explain Nadal’s unparalleled success on the surface.\n\n\nRead the Full Article\nYou can read my full article, published on Bruin Sports Analytics, here: Read the article."
   },
@@ -39,14 +39,14 @@
     "href": "index.html#education",
     "title": "Uzair Shaikh",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics and Data Science | Sept 2023 - June 2025\nSantiago Canyon College | Orange, CA A.S in Mathematics | Aug 2021 - June 2023"
+    "text": "Education\n\n\n\n\n\n\n\n\nInstitution\nDegree\nDuration\n\n\n\n\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science\nSept 2023 - June 2025\n\n\nSantiago Canyon College\nA.S. in Mathematics\nAug 2021 - June 2023"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Uzair Shaikh",
     "section": "Experience",
-    "text": "Experience\nLiftedViz | Data Visualization Intern | Jan 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\n\n\n\n\n\n\n\n\nCompany\nRole\nDuration\n\n\n\n\nLiftedViz\nData Visualization Intern\nJan 2025 - Present\n\n\nBruin Sports Analytics\nData Journalist & Tennis Consultant\nApr 2024 - Present\n\n\nThe Walt Disney Company\nRestaurant Host\nNov 2022 - Present"
   },
   {
     "objectID": "projects/02-project.html",
