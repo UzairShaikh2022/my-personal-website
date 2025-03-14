@@ -15,7 +15,7 @@ about:
       url: "mailto:uzair.a.shk@gmail.com"
     - icon: cv
       text: CV
-      url: "Uzair_A_Shaikh_Resume.pdf"
+      url: "resume.pdf"
 toc: false
 ---
 
