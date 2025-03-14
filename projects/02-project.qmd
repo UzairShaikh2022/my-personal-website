@@ -27,4 +27,4 @@ By integrating **statistical analysis with interactive visuals**, we uncovered s
 
 # **Read the Full Analysis**  
 You can explore the full analysis and interactive visualizations on our **WordPress website** here:  
-[View the full analysis](#)  
+[View the full analysis](https://theponderers.humspace.ucla.edu/)  
