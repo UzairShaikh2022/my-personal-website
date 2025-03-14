@@ -1,4 +1,5 @@
 ---
+toc: false
 title: "Data Journalism: Rafael Nadal: The Undisputed King of Clay"
 author: "Uzair Shaikh"
 date: "June 22, 2024"

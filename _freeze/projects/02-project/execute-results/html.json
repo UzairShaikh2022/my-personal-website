@@ -1,8 +1,8 @@
 {
-  "hash": "df7a2d92c7775be7725f0111e1c39fb1",
+  "hash": "19d8e8f9f33be3152bf25ef6b17945dc",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: Project 2\nsubtitle: Description\nimage: images/wnba.jpg\n---\n\n\n\n\nMy first project\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(30)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.840404423 0.570068807 0.318525313 0.310477884 0.787795088 0.817723684\n [7] 0.576510913 0.099884636 0.005322988 0.369865721 0.118205670 0.518053437\n[13] 0.308784940 0.722768238 0.501332689 0.782210545 0.143077926 0.580613522\n[19] 0.924639262 0.988555180 0.300606863 0.212564368 0.513043352 0.759700470\n[25] 0.916123950 0.256185193 0.476520484 0.322752815 0.578873420 0.010606643\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: Bigger Than Basketball\nsubtitle: Tableau WNBA Project\nimage: images/wnba.jpg\n---\n\n\n\n\n# Project Overview  \nIn this group project, we analyzed the WNBA  \n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(30)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.62328173 0.98328474 0.05269053 0.07118738 0.13817515 0.04968385\n [7] 0.15325102 0.95240545 0.49892321 0.06738622 0.75868405 0.27141624\n[13] 0.30177062 0.41892687 0.59242705 0.41704010 0.75355145 0.14267322\n[19] 0.52610056 0.19382564 0.69125420 0.31910980 0.33953527 0.76510508\n[25] 0.25191629 0.62162658 0.55765724 0.08289453 0.54424985 0.51984509\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
