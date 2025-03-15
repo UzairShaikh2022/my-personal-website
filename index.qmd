@@ -13,9 +13,6 @@ about:
     - icon: email
       text: Email
       url: "mailto:uzair.a.shk@gmail.com"
-    - icon: cv
-      text: CV
-      url: "Uzair_Ahmed_Shaikh_Resume.pdf"
 toc: false
 ---
 
