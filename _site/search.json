@@ -7,20 +7,6 @@
     "text": "Here is a collection of projecsts showcasing my data analysis and storytelling. Each project highlights my passion for turning data into meaningful narratives.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Journalism: Rafael Nadal: The Undisputed King of Clay\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization: The WNBA and Its Viewership Trends\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "",
-    "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my project 2"
-  },
-  {
     "objectID": "projects/01-project.html",
     "href": "projects/01-project.html",
     "title": "Data Journalism: Rafael Nadal: The Undisputed King of Clay",
@@ -32,7 +18,7 @@
     "href": "index.html",
     "title": "Uzair Shaikh",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Uzair Shaikh is a senior at the University of California, Los Angeles studying Statistics and Data Science. With a passion for uncovering insights, he specializes in data visualization and transforming raw data into meaningful narratives."
   },
   {
     "objectID": "index.html#education",
@@ -54,12 +40,5 @@
     "title": "Data Visualization: The WNBA and Its Viewership Trends",
     "section": "",
     "text": "Project Overview\nThis project explores how societal and political factors influence WNBA attendance and TV viewership. By analyzing trends over multiple seasons, we examined how key performance metrics—such as win-loss records, points per game, and team success—correlate with audience engagement.\nDespite the league’s growing popularity, viewership and attendance trends are influenced by external factors like media coverage, player advocacy, and public perception. Through this project, we aimed to quantify these influences and provide data-driven insights into the league’s growth.\n\n\nData Collection & Analysis\n\nData Source: WNBA Website\n\nData Cleaning & Preparation: Processed in Excel\n\nVisualization & Analysis: Conducted in Tableau\n\nPresentation: Published on WordPress\n\nWe began by collecting historical WNBA data, including team performance, win-loss records, points per game, and other statistics. After cleaning and organizing the data in Excel, we imported it into Tableau, where we created various bar charts, line charts, and maps to visually represent trends in viewership and attendance.\nBy integrating statistical analysis with interactive visuals, we uncovered significant patterns that shed light on how the WNBA’s reception has evolved over time.\n\n\nRead the Full Analysis\nYou can explore the full analysis and interactive visualizations on our WordPress website here:\nView the full analysis"
-  },
-  {
-    "objectID": "projects/03-project.html",
-    "href": "projects/03-project.html",
-    "title": "Project 3",
-    "section": "",
-    "text": "My third project\n\nrunif(30)\n\n [1] 0.65708732 0.88076684 0.69529044 0.62438790 0.22745719 0.59000217\n [7] 0.17059317 0.53524452 0.85594847 0.12931179 0.23112644 0.60922707\n[13] 0.92202259 0.40793826 0.26003473 0.66165286 0.06225824 0.50175172\n[19] 0.54599344 0.37800346 0.90929325 0.44354390 0.96309588 0.96942358\n[25] 0.42447753 0.62825906 0.41448063 0.15884419 0.96960095 0.74528073"
   }
 ]

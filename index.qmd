@@ -15,11 +15,11 @@ about:
       url: "mailto:uzair.a.shk@gmail.com"
     - icon: cv
       text: CV
-      url: "resume.pdf"
+      url: "Uzair_Ahmed_Shaikh_Resume.pdf"
 toc: false
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Uzair Shaikh is a senior at the University of California, Los Angeles studying Statistics and Data Science. With a passion for uncovering insights, he specializes in data visualization and transforming raw data into meaningful narratives. 
 
 ## Education  
 
