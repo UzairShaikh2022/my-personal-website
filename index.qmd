@@ -21,6 +21,8 @@ toc: false
 
 Uzair Shaikh is a senior at the University of California, Los Angeles studying Statistics and Data Science. With a passion for uncovering insights, he specializes in data visualization and transforming raw data into meaningful narratives. 
 
+Download [Uzair Shaikh's Resume](/Uzair_Ahmed_Shaikh_Resume.pdf)
+
 ## Education  
 
 | Institution                        | Degree                          | Duration               |
